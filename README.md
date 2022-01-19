@@ -5,5 +5,3 @@
 - 🤝 I’m looking to collaborate on any project I can learn somethig new.
 ### Contatos:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/juria.cardozo/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/julia.cardozo.714049/)
-
-![Snake animation](https://github.com/juria.Cardozo/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
