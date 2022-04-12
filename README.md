@@ -1,4 +1,8 @@
 # Hi, I’m Júlia Cardozo! ヽ(•‿•)ノ
+
+![gif](https://i.pinimg.com/originals/50/d9/07/50d907507c76d39909a0e7c133f10e6e.gif)
+
+
 ## About me
 - 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 - 👩‍🎓 I'm a software engineering student at UTFPR.
