@@ -12,7 +12,7 @@
 int main(int argc, char const *argv[]){
   printf("Hi, my name's Júlia!");
   printf("I'm a Software Engineering student at UTFPR-Dois Vizinhos");
-  printf("Currently learning Dart, Java, CSS, HTML and JavaScript");
+  printf("Currently learning Dart, Java, R, JS");
 
   return 0;
 }
