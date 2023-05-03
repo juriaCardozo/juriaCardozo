@@ -2,8 +2,6 @@
 
 <div align="center">
   
-![gif](https://i.pinimg.com/originals/50/d9/07/50d907507c76d39909a0e7c133f10e6e.gif)  
-  
 </div>
 
 ```c
