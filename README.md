@@ -9,8 +9,8 @@
 
 int main(int argc, char const *argv[]){
   printf("Hi, my name's Júlia!");
-  printf("I'm a Software Engineering student at UTFPR-Dois Vizinhos");
-  printf("Currently learning Web Development with Spring Boot and Angular and Cypress for testing");
+  printf("I'm a Backend Software Developer and Software Engineering student at UTFPR-Dois Vizinhos");
+  printf("Currently learning Web Development with Spring Boot and Angular");
 
   return 0;
 }
