@@ -4,19 +4,6 @@
   
 </div>
 
-```c
-#include <stdio.h>
-
-int main(int argc, char const *argv[]){
-  printf("Hi, my name's Júlia!");
-  printf("I'm a Backend Software Developer and Software Engineering student at UTFPR-Dois Vizinhos");
-  printf("Currently learning Web Development with Spring Boot and Angular");
-
-  return 0;
-}
-```
-##
-
 <div align="center">
   <div>
     <a href="https://github.com/juriaCardozo">
